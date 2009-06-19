@@ -81,7 +81,7 @@
   (run-tests)
 
   (use :reload 'clojure.contrib.dataflow)
-  (use 'clojure.contrib.stacktrace) (e)
+  (use 'clojure.stacktrace) (e)
   (use 'clojure.contrib.trace)
 
 )

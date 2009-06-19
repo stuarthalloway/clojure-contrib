@@ -124,7 +124,7 @@
           :literal-type :clojure.contrib.datalog.literals/literal})))
 
 (comment
-  (use 'clojure.contrib.stacktrace) (e)
+  (use 'clojure.stacktrace) (e)
   (use :reload 'clojure.contrib.datalog.literals)
 )
 

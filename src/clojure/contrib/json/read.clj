@@ -43,7 +43,7 @@
            may not be bare symbols.
 
            If you want to convert map keys from strings to keywords, use
-           clojure.contrib.walk/keywordize-keys
+           clojure.walk/keywordize-keys
 ",
      :see-also [["http://www.json.org", "JSON Home Page"]]}
   clojure.contrib.json.read

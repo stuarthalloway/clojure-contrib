@@ -512,7 +512,7 @@ emits the generated HTML to the path named by path."
      'clojure.contrib.server-socket
      'clojure.contrib.shell-out
      'clojure.contrib.sql
-     'clojure.contrib.stacktrace
+     'clojure.stacktrace
      'clojure.contrib.stream-utils
      'clojure.contrib.str-utils
      'clojure.contrib.template
@@ -520,7 +520,7 @@ emits the generated HTML to the path named by path."
      'clojure.contrib.test-contrib
      'clojure.contrib.trace
      'clojure.contrib.types
-     'clojure.contrib.walk
+     'clojure.walk
      'clojure.contrib.zip-filter
      'clojure.contrib.javadoc.browse
      'clojure.contrib.json.read

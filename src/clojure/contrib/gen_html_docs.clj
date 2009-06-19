@@ -518,7 +518,6 @@ emits the generated HTML to the path named by path."
      'clojure.contrib.template
      'clojure.contrib.test-clojure
      'clojure.contrib.test-contrib
-     'clojure.contrib.test-is
      'clojure.contrib.trace
      'clojure.contrib.types
      'clojure.contrib.walk
